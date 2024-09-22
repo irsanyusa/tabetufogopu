@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tabetufogopu.b-cdn.net/sitemap.xml
